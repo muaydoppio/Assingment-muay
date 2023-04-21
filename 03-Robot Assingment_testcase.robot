@@ -1,5 +1,5 @@
 *** Settings ***
-Resource         ${CURDIR}/Robot Assingment 03_keyword.robot
+Resource         ${CURDIR}/03-Robot Assingment _keyword.robot
 
 
 

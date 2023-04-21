@@ -1,5 +1,5 @@
 *** Settings ***
-Resource        ${CURDIR}/Robot Assingment 03_Variable.robot
+Resource        ${CURDIR}/03-Robot Assingment_Variable.robot
 
 
 
